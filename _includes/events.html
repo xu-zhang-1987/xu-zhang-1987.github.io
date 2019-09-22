@@ -1,0 +1,6 @@
+<div class="container education-container">
+  <h3>{{ site.events_title | default: "Events" }}</h3>
+  {% for event in site.data.events %}
+    {% include {{ event.layout | default: 'simple3col' | append: ".html" }} item=event %}
+  {% endfor %}
+</div>

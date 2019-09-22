@@ -1,0 +1,27 @@
+<div class="row clearfix layout layout-simple3col">
+  <div class="col-xs-12 col-sm-3 col-md-3 col-print-12 details">
+    {%- if include.item.author -%}<p style="margin-top:0.0em;margin-bottom:0.0em">{{ include.item.author }}</p>{%- endif -%}
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-6 col-print-12">
+    {%- if include.item.title -%}
+    <p style="margin-top:0.0em;margin-bottom:0.0em">
+        {{ include.item.title }}
+        {%- if include.item.project -%}
+            <span class="navy"> <a href="{{include.item.project}}">[project page]</a></span>
+        {%- endif -%}
+        {%- if include.item.paper -%}
+            <span class="navy"> <a href="{{include.item.paper}}">[paper]</a></span>
+        {%- endif -%}
+        {%- if include.item.bibtex-%}
+            <span class="navy"> <a href="{{include.item.bibtex}}">[bibtex]</a></span>
+        {%- endif -%}
+        {%- if include.item.code -%}
+            <span class="navy"> <a href="{{include.item.code}}">[code]</a></span>
+        {%- endif -%}
+    </p>
+    {%- endif -%}
+  </div>
+  <div class="col-xs-12 col-sm-3 col-md-3 col-print-12">
+    {%- if include.item.conference -%}<p style="margin-top:0.0em;margin-bottom:0.0em">{{ include.item.conference }}</p>{%- endif -%}
+  </div>
+</div>

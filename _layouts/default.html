@@ -5,36 +5,45 @@
 
 <body>
 
-    {%- include header.html -%}
+  {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
-        <div class="wrapper">
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
 
-            {%- include about.html -%}
+      {%- include about.html -%}
 
-            {%- if site.data.projects.size > 0 -%}
-                {%- include projects.html -%}
-            {%- endif -%}
+      {%- if site.data.news.size > 0 -%}
+        {%- include news.html -%}
+      {%- endif -%}
 
-            {%- if site.data.experience.size > 0 -%}
-                {%- include experience.html -%}
-            {%- endif -%}
+      {%- if site.data.experience.size > 0 -%}
+        {%- include experience.html -%}
+      {%- endif -%}
 
-            {%- if site.data.education.size > 0 -%}
-                {%- include education.html -%}
-            {%- endif -%}
+      {%- if site.data.education.size > 0 -%}
+        {%- include education.html -%}
+      {%- endif -%}
 
-            {%- include more.html -%}
+      {%- if site.data.projects.size > 0 -%}
+        {%- include projects.html -%}
+      {%- endif -%}
 
-        </div>
-    </main>
+      {%- if site.data.events.size > 0 -%}
+        {%- include events.html -%}
+      {%- endif -%}
 
-    {%- include footer.html -%}
+      {%- if site.data.publications.size > 0 -%}
+        {%- include publications.html -%}
+      {%- endif -%}
 
-    <a href="https://github.com/sproogen/resume-theme" target="_blank">
-      <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"
-        alt="Fork me on GitHub">
-    </a>
+      {%- if site.more_content -%}
+        {%- include more.html -%}
+      {%- endif -%}
+
+    </div>
+  </main>
+
+  {%- include footer.html -%}
 
 </body>
 

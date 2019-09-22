@@ -1,0 +1,21 @@
+# Experience template
+- layout: event2col 
+  company: NYC Media Lab’s Annual Summit 2019
+  job_title: We will host a demo "Political Visual Literacy App"
+  link: https://politicalvisualliteracy.github.io
+  dates: Sep. 2019 
+  location: Brooklyn, NY
+
+- layout: event2col
+  company: CVPR 2019 
+  job_title: I co-organized the 2nd Landmark Recognition Workshop
+  link: https://landmarksworkshop.github.io/CVPRW2019/
+  dates: Jun. 2019
+  location: Long Beach, CA
+
+- layout: event2col
+  company: CVPR 2018
+  job_title: I co-organized the 1st Landmark Recognition Workshop
+  link: https://landmarksworkshop.github.io/CVPRW2018/
+  dates: Jun. 2018
+  location: Salt Lake City, UT

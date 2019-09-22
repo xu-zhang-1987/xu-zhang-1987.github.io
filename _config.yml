@@ -1,56 +1,44 @@
 # Site
-repository: sproogen/resume-theme
-# favicon: images/favicon.ico
+repository: xu-zhang-1987/xu-zhang-1987.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Xu Zhang
+title: Postdoctoral Research Scientist 
+email: xu.zhang@columbia.edu 
+website: https://xu-zhang-1987.github.io/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+github_username: spongezhang
+linkedin_username: xu-zhang-22008054
+googlescholar_username: efE70pEAAAAJ
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  I'm a postdoctoral research scientist at Digital Video and MultiMedia Lab at the Columbia University in the city of New York, supervised by Prof. Shih-Fu Chang. I obtained a Ph.D. from Tsinghua University, Beijing, China, in 2016, supervised by Prof. Shengjin Wang. My research interests include local feature detection and description, large scale image retrieval and image forensics. 
+  
 # Projects Section
-# projects_title: Projects
+# projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience
+# experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# educaton_title: Education
+# education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me
+# more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  I'm a big fan of scuba diving, photography and volleyball.  
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -58,3 +46,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

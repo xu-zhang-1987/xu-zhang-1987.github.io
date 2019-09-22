@@ -1,0 +1,16 @@
+<div class="row clearfix layout layout-simple3col">
+  <div class="col-xs-12 col-sm-5 col-md-5 col-print-12 details">
+    {%- if include.item.company -%}<p style="font-size:18px;margin-top:0.0em;margin-bottom:0.0em"><b>{{ include.item.company }}</b><p>{%- endif -%}
+    {%- if include.item.location -%}<p style="font-size:12px;margin-top:0.0em;margin-bottom:0.0em">{{ include.item.location }}</p>{%- endif -%}
+    {%- if include.item.dates -%}<p style="font-size:12px;margin-top:0.0em;margin-bottom:0.0em"><i>{{ include.item.dates }}</i></p>{%- endif -%}
+  </div>
+  <div class="col-xs-12 col-sm-7 col-md-7 col-print-12">
+    {%- if include.item.job_title -%}
+    <p style="margin-top:0.0em;margin-bottom:0.0em">
+        {{ include.item.job_title }}
+        {%- if include.item.link -%}
+            <span class="navy"> <a href="{{include.item.link}}"> [website]</a></span>
+        {%- endif -%}
+    </p>{%- endif -%}
+  </div>
+</div>

@@ -1,0 +1,12 @@
+<div class="row clearfix layout layout-simple3col">
+  <div class="col-xs-12 col-sm-4 col-md-4 col-print-12 details">
+    {%- if include.item.company -%}<p style="font-size:18px;margin-top:0.0em;margin-bottom:0.0em"><b>{{ include.item.company }}</b><p>{%- endif -%}
+    {%- if include.item.location -%}<p style="font-size:12px;margin-top:0.0em;margin-bottom:0.0em">{{ include.item.location }}</p>{%- endif -%}
+  </div>
+  <div class="col-xs-12 col-sm-4 col-md-4 col-print-12">
+    {%- if include.item.job_title -%}<p style="margin-top:0.0em;margin-bottom:0.0em"><b>{{ include.item.job_title }}</b></p>{%- endif -%}
+  </div>
+  <div class="col-xs-12 col-sm-4 col-md-4 col-print-12">
+    {%- if include.item.dates -%}<p style="margin-top:0.0em;margin-bottom:0.0em">{{ include.item.dates }}</p>{%- endif -%}
+  </div>
+</div>

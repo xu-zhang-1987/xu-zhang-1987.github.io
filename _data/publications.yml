@@ -1,0 +1,64 @@
+# Publication Template
+- layout: publication3col
+  author: Xu Zhang, Svebor Karaman, Shih-Fu Chang
+  title: Detecting and Simulating Artifacts in GAN Fake Images
+  code: https://github.com/ColumbiaDVMM/AutoGAN
+  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:EBbqaO_GbXMJ:scholar.google.com/&output=citation&scisdr=CgXHbGVTEJHM5l7N444:AAGBfm0AAAAAXYbI-440ABMcLRFjm6XDySPhNCntpxT-&scisig=AAGBfm0AAAAAXYbI-yT_6yxhsseVtlIlWeyWgUMSyQJj&scisf=4&ct=citation&cd=-1&hl=en
+  paper: https://arxiv.org/pdf/1907.06515.pdf
+  conference: WIFS 2019 (to appear)
+
+- layout: publication3col
+  author: Mang Ye, Xu Zhang, Pong C. Yuen, and Shih-Fu Chang
+  title: Unsupervised Embedding Learning via Invariant and Spreading Instance Feature
+  code: https://github.com/mangye16/Unsupervised_Embedding_Learning
+  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:w30vhU8-4g4J:scholar.google.com/&output=citation&scisdr=CgXHbGVTEJHM5l7Hx-o:AAGBfm0AAAAAXYbC3-pepMEajsEC1VuOsJ4T_YMNjdpo&scisig=AAGBfm0AAAAAXYbC38PnsuyZfsmvx4w1rfNJvDeg54xh&scisf=4&ct=citation&cd=-1&hl=en
+  paper: http://openaccess.thecvf.com/content_CVPR_2019/papers/Ye_Unsupervised_Embedding_Learning_via_Invariant_and_Spreading_Instance_Feature_CVPR_2019_paper.pdf
+  conference: CVPR 2019
+
+- layout: publication3col
+  author: Matthew J. Leotta, Chengjiang Long, Bastien Jacquet, Matthieu Zins, Dan Lipsa, Jie Shan, Bo Xu, Zhixin Li, Xu Zhang, Shih-Fu Chang, Matthew Purri, Jia Xue, Kristin Dana
+  title: Urban Semantic 3D Reconstruction From Multiview Satellite Imagery
+  code: https://github.com/kitware/danesfield-app
+  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iVu7Mb9dglgJ:scholar.google.com/&output=citation&scisdr=CgXHbGVTEJHM5l7MsFY:AAGBfm0AAAAAXYbJqFYNaoZk4EgdMZj7okNvwNF9Osfq&scisig=AAGBfm0AAAAAXYbJqASH3HYggYS2-MACJaoo5XLDyyAb&scisf=4&ct=citation&cd=-1&hl=en
+  paper: http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Leotta_Urban_Semantic_3D_Reconstruction_From_Multiview_Satellite_Imagery_CVPRW_2019_paper.pdf
+  conference: CVPRW 2019. Best paper in EarthVision 2019 Workshop
+
+- layout: publication3col
+  author: Xu Zhang, Felix X Yu, Sanjiv Kumar, Shih-Fu Chang
+  title: Learning Spread-out Local Feature Descriptors
+  code: https://github.com/ColumbiaDVMM/Spread-out_Local_Feature_Descriptor
+  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dZoLsnYDP4EJ:scholar.google.com/&output=citation&scisdr=CgXHbGVTEJHM5l7PsXY:AAGBfm0AAAAAXYbKqXaqv0Ww9rNxekE2MZl6YhB1H0EQ&scisig=AAGBfm0AAAAAXYbKqdBonAOwl32rSAHwfVctOZSrvi47&scisf=4&ct=citation&cd=-1&hl=en
+  paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Learning_Spread-Out_Local_ICCV_2017_paper.pdf
+  conference: ICCV 2017. Spotlight paper
+
+- layout: publication3col
+  author: Xu Zhang, Felix X Yu, Svebor Karaman, Shih-Fu Chang
+  title: Learning Discriminative and Transformation Covariant Local Feature Detectors
+  code: https://github.com/ColumbiaDVMM/Transform_Covariant_Detector
+  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:VIBFZZdYBxQJ:scholar.google.com/&output=citation&scisdr=CgXHbGVTEJHM5l7OCDc:AAGBfm0AAAAAXYbLEDfULa17mi5ewlxeI24_mdkYvYTU&scisig=AAGBfm0AAAAAXYbLEPwKnfotkPJrdtCKAvPgBEF7MUfU&scisf=4&ct=citation&cd=-1&hl=en
+  paper: http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_Discriminative_and_CVPR_2017_paper.pdf
+  conference: CVPR 2017
+
+- layout: publication3col
+  author: Xu Zhang, Felix X Yu, Ruiqi Guo, Sanjiv Kumar, Shengjin Wang, Shih-Fu Chang
+  title: Fast Orthogonal Projection Based on Kronecker Product
+  code:  https://github.com/spongezhang/Kronecker_Projection
+  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:2ZeXgh56meoJ:scholar.google.com/&output=citation&scisdr=CgXHbGVTEJHM5l7OhPM:AAGBfm0AAAAAXYbLnPN37S4eXjQhy3KEOW3PFWvLX9uM&scisig=AAGBfm0AAAAAXYbLnOhAYTeyHv22w8fiKs7pRYuaXBRk&scisf=4&ct=citation&cd=-1&hl=en
+  paper: http://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Fast_Orthogonal_Projection_ICCV_2015_paper.pdf
+  conference: ICCV 2015
+
+- layout: publication3col
+  author: Xu Zhang, Felix Xinnan Yu, Svebor Karaman, Wei Zhang, Shih-Fu Chang
+  title: Heated-Up Softmax Embedding
+  code:  https://github.com/ColumbiaDVMM/Heated_Up_Softmax_Embedding
+  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:N7qh2NaOa5wJ:scholar.google.com/&output=citation&scisdr=CgXHbGVTEJHM5l7JZtc:AAGBfm0AAAAAXYbMftdv-1AK2SoU3qPyuJnh7QezlR0n&scisig=AAGBfm0AAAAAXYbMfqrgfcjfj4iYTaOaWvC-ZmBk0-wu&scisf=4&ct=citation&cd=-1&hl=en
+  paper: https://arxiv.org/pdf/1809.04157.pdf
+  conference: arXiv 2018
+ 
+- layout: publication3col
+  author: Xu Zhang, Felix X Yu, Shih-Fu Chang, Shengjin Wang
+  title: Deep Transfer Network, Unsupervised Domain Adaptation
+  code:  https://github.com/spongezhang/Deep-Transfer-Network
+  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:o9-8-vQF6RAJ:scholar.google.com/&output=citation&scisdr=CgXHbGVTEJHM5l7IcXk:AAGBfm0AAAAAXYbNaXkP2Ch3LE7tZcQ-zCALAV9rB8dV&scisig=AAGBfm0AAAAAXYbNaZFoAM8utabwjhQbvK2Um1vaoIHp&scisf=4&ct=citation&cd=-1&hl=en
+  paper: https://arxiv.org/pdf/1503.00591.pdf
+  conference: arXiv 2015
