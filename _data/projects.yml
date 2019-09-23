@@ -2,10 +2,10 @@
   i18n: Recognition
   img: images/PVL.png
   desc: Given a protest image, detect and recognize all political symbols in the image. The project helps journalists recognized different symbols. 
-  url: https://www.kaggle.com/c/landmark-recognition-2019
+  url: https://politicalvisualliteracy.github.io/
 
 - name: Danesfield  
   i18n: Retrieval
   img: images/Danesfield.png
-  desc: The goal of this software is to reconstruct semantically meaningful 3D models of buildings and other man-made structures from satellite imagery.
-  url: https://www.kaggle.com/c/landmark-retrieval-2019
+  desc: The goal of this software is to reconstruct semantically meaningful 3D models of buildings and other man-made structures from satellite imagery. I addressed the building segmentation and building roof type segmentation tasks.
+  url: https://github.com/Kitware/Danesfield
