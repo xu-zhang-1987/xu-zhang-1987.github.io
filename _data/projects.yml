@@ -1,9 +1,11 @@
-# Project template
-#- layout: top-middle
-#  name: Project name
-#  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-#  quote: >
-#    Short overview of the project (optional)
-#  description: | # this will include new lines to allow paragraphs
-#    Description about the work on/with the project
+- name: Visual Political Literacy Project 
+  i18n: Recognition
+  img: images/PVL.png
+  desc: Given a protest image, detect and recognize all political symbols in the image. The project helps journalists recognized different symbols. 
+  url: https://www.kaggle.com/c/landmark-recognition-2019
+
+- name: Danesfield  
+  i18n: Retrieval
+  img: images/Danesfield.png
+  desc: The goal of this software is to reconstruct semantically meaningful 3D models of buildings and other man-made structures from satellite imagery.
+  url: https://www.kaggle.com/c/landmark-retrieval-2019

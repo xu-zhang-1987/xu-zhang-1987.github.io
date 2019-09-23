@@ -1,6 +1,19 @@
-<div class="container projects-container">
-  <h3>{{ site.projects_title | default: "Projects" }}</h3>
-  {% for project in site.data.projects %}
-    {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
-  {% endfor %}
+<div class="container" id="i18_projects">
+    <h3>{{ site.education_title | default: "Projects" }}</h3>
+    <div class="row">
+        {% for project in site.data.projects %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+            <div class="col-sm-6">
+               <div>
+                  <img src="{{ project.img | prepend: site.baseurl }}" class="img-small" alt="">
+                  <h5><p style="font-size:18px;text-align:center;margin-top:1.0em;color:navy"><span>{{ project.name }}</span></p></h5>
+                  <p>
+                      <span class="navy">{{ project.desc }}</span>
+                      <span class="navy"> <a href="{{project.url}}">[project page]</a></span>
+                  </p>
+              </div>
+            </div>
+      {% endfor %}
+    </div>
 </div>
+<br>
