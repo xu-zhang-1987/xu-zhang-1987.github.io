@@ -7,5 +7,5 @@
 - name: Danesfield  
   i18n: Retrieval
   img: images/Danesfield.png
-  desc: The goal of this software is to reconstruct semantically meaningful 3D models of buildings and other man-made structures from satellite imagery. I am responsible for the building segmentation and building roof type segmentation tasks.
+  desc: The goal of this software is to reconstruct semantically meaningful 3D models of buildings and other man-made structures from satellite imagery. I'm responsible for the building segmentation and building roof type segmentation tasks.
   url: https://github.com/Kitware/Danesfield
