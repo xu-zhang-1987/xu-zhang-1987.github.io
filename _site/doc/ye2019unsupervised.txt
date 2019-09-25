@@ -1,0 +1,7 @@
+@inproceedings{ye2019unsupervised,
+  title={Unsupervised Embedding Learning via Invariant and Spreading Instance Feature},
+  author={Ye, Mang and Zhang, Xu and Yuen, Pong C and Chang, Shih-Fu},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={6210--6219},
+  year={2019}
+}

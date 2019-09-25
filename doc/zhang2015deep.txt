@@ -1,0 +1,6 @@
+@article{zhang2015deep,
+  title={Deep transfer network: Unsupervised domain adaptation},
+  author={Zhang, Xu and Yu, Felix Xinnan and Chang, Shih-Fu and Wang, Shengjin},
+  journal={arXiv preprint arXiv:1503.00591},
+  year={2015}
+}

@@ -1,0 +1,7 @@
+@inproceedings{zhang2015fast,
+  title={Fast orthogonal projection based on kronecker product},
+  author={Zhang, Xu and Yu, Felix X and Guo, Ruiqi and Kumar, Sanjiv and Wang, Shengjin and Chang, Shi-Fu},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={2929--2937},
+  year={2015}
+}

@@ -1,0 +1,6 @@
+@article{zhang2019detecting,
+  title={Detecting and Simulating Artifacts in GAN Fake Images},
+  author={Zhang, Xu and Karaman, Svebor and Chang, Shih-Fu},
+  journal={arXiv preprint arXiv:1907.06515},
+  year={2019}
+}

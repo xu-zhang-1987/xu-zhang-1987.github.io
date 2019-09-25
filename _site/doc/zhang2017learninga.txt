@@ -1,0 +1,7 @@
+@inproceedings{zhang2017learning,
+  title={Learning discriminative and transformation covariant local feature detectors},
+  author={Zhang, Xu and Yu, Felix X and Karaman, Svebor and Chang, Shih-Fu},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={6818--6826},
+  year={2017}
+}

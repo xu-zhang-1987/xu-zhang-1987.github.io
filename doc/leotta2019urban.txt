@@ -1,0 +1,7 @@
+@inproceedings{leotta2019urban,
+  title={Urban Semantic 3D Reconstruction from Multiview Satellite Imagery},
+  author={Leotta, Matthew J and Long, Chengjiang and Jacquet, Bastien and Zins, Matthieu and Lipsa, Dan and Shan, Jie and Xu, Bo and Li, Zhixin and Zhang, Xu and Chang, Shih-Fu and others},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={0--0},
+  year={2019}
+}

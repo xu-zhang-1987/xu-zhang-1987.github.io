@@ -1,0 +1,6 @@
+@article{zhang2018heated,
+  title={Heated-up softmax embedding},
+  author={Zhang, Xu and Yu, Felix Xinnan and Karaman, Svebor and Zhang, Wei and Chang, Shih-Fu},
+  journal={arXiv preprint arXiv:1809.04157},
+  year={2018}
+}
