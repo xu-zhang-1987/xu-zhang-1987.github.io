@@ -17,7 +17,7 @@ googlescholar_username: efE70pEAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  I'm an applied scientist in Amazon Alexa AI. I was a postdoctoral research scientist at Digital Video and MultiMedia Lab at the Columbia University in the city of New York, supervised by Prof. Shih-Fu Chang. I obtained a Ph.D. from Tsinghua University, Beijing, China, in 2016, supervised by Prof. Shengjin Wang. My research interests include local feature detection and description, large scale image retrieval and image forensics. Here is my full [resume](doc/Xu_Zhang_resume.pdf).
+  I'm an applied scientist at Amazon Alexa. I was a postdoctoral research scientist at Digital Video and MultiMedia Lab at the Columbia University in the city of New York, supervised by Prof. Shih-Fu Chang. I obtained a Ph.D. from Tsinghua University, Beijing, China, in 2016, supervised by Prof. Shengjin Wang. My research interests include local feature detection and description, large scale image retrieval and image forensics. Here is my full [resume](doc/Xu_Zhang_resume.pdf).
   
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
