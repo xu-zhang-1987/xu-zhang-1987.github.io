@@ -1,12 +1,18 @@
 # News Template
 - layout: simple2col
+  dates: Jun. 2020
+  description: I have one paper accepted by IEEE Journal of Selected Topics in Signal Processing
+
+- layout: simple2col
+  dates: May. 2020
+  description: I'll be serving as a Special Session Chair in WIFS 2020
+
+- layout: simple2col
+  dates: Feb. 2020
+  description: I'll be serving as an AC in ACMMM 2020
+
+- layout: simple2col
   dates: Sep. 2019
   description: I have one paper accepted in WIFS 2019
 
-- layout: simple2col
-  dates: Sep. 2019
-  description: I'll be serving as a reviewer for CVPR 2020
 
-- layout: simple2col
-  dates: Aug. 2019
-  description: I'll be serving as a PC member for AAAI 2020

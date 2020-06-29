@@ -1,7 +1,9 @@
 - name: Visual Political Literacy Project 
   i18n: Recognition
   img: images/PVL.png
-  desc: Given a protest image, detect and recognize all political symbols in the image. The project helps journalists recognized different symbols. 
+  desc: Given a protest image, detect and recognize all political symbols in the image. The project helps journalists recognized different symbols. The project has been covered by 
+  theecomonist: https://www.economist.com/united-states/2020/06/13/a-birdwatchers-app-inspires-a-field-guide-to-protesters-symbols
+  cnet: https://www.cnet.com/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/
   url: https://politicalvisualliteracy.github.io/
 
 - name: Danesfield  

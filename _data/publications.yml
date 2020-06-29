@@ -1,11 +1,19 @@
 # Publication Template
 - layout: publication3col
+  author: Xu Zhang, Zhaohui H. Sun, Svebor Karaman, Shih-Fu Chang
+  title: Discovering Image Manipulation History byPairwise Relation and Forensics Tools
+  code: https://github.com/Columbia-Provenance-Analysis/ProvenanceAnalysis
+  bibtex: doc/zhang2020discovering.txt
+  paper: https://ieeexplore.ieee.org/abstract/document/9107445/
+  conference: IEEE Journal of Selected Topics in Signal Processing
+
+- layout: publication3col
   author: Xu Zhang, Svebor Karaman, Shih-Fu Chang
   title: Detecting and Simulating Artifacts in GAN Fake Images
   code: https://github.com/ColumbiaDVMM/AutoGAN
   bibtex: doc/zhang2019detecting.txt
   paper: https://arxiv.org/pdf/1907.06515.pdf
-  conference: WIFS 2019 (to appear)
+  conference: WIFS 2019
 
 - layout: publication3col
   author: Mang Ye, Xu Zhang, Pong C. Yuen, and Shih-Fu Chang

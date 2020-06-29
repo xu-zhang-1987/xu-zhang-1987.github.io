@@ -1,8 +1,14 @@
 # Experience template
 - layout: simple3col
+  company: Amazon Alexa
+  job_title: Applied Scientist
+  dates: Nov. 2019 - Present
+  location: Cambridge, MA, USA
+
+- layout: simple3col
   company: Columbia University 
   job_title: Postdoctoral Research Scientist 
-  dates: July 2016 - Present
+  dates: July 2016 - Oct. 2019
   location: New York, New York, USA
 
 - layout: simple3col
